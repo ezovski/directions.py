@@ -1,2 +1,2 @@
 requests
-git+git://github.com/mapkin/polycomp.git@master
+git+git://github.com/mapkin/polycomp.git@master#egg=polycomp
